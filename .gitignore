@@ -1,7 +1,9 @@
+*.elc
 .recentf
 server/
 auto-save-list/
 eshell/
+elpa/
 kkcrc
 ac-comphist.dat
 ido.last
