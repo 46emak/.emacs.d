@@ -39,3 +39,5 @@
       line-number-mode t
       column-number-mode t)
 (display-time-mode 1)
+
+(require 'olm)

@@ -19,7 +19,9 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (zenburn-theme go-mode use-package markdown-mode init-loader edit-indirect))))
+    (olm telephone-line zenburn-theme go-mode use-package markdown-mode init-loader edit-indirect)))
+ '(zenburn-scale-org-headlines t t)
+ '(zenburn-scale-outline-headlines t t))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
